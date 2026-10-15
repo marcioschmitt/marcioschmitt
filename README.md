@@ -1,14 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=34&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Marcio+Schmitt;Desenvolvedor+Full+Stack;Sistemas+internos,+automação+e+IA;Infraestrutura,+segurança+e+self-hosting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=34&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Marcio+Schmitt;CTO+no+Grupo+Villela;IA+aplicada,+sistemas+e+automação;Segurança+da+informação+e+infraestrutura)](https://git.io/typing-svg)
 
 <br>
 
 ### 🚀 Sobre mim
-- 💼 Desenvolvedor full stack, criando sistemas internos e plataformas para o **Grupo Villela** ([Villela-Tech](https://github.com/Villela-Tech)).
-- 🧑‍💻 No dia a dia: **TypeScript, Node.js, React, Next.js e PostgreSQL**. Para automação e dados, **Python**.
+- 💼 **CTO no Grupo Villela** ([Villela-Tech](https://github.com/Villela-Tech)), com mais de 25 anos em tecnologia, de suporte e redes a gestão de TI e desenvolvimento de sistemas. Baseado em Porto Alegre.
+- 🧑‍💻 Desenvolvo sistemas internos e plataformas com **TypeScript, Node.js, React, Next.js e PostgreSQL**. Para automação e dados, **Python**.
+- 🔗 Integrações entre CRMs, ERPs e APIs com **Make.com, Bitrix24 e Pipedrive**.
 - 🤖 Integro IA nos produtos: busca semântica, assistentes com LLM e APIs/servidores **MCP** para agentes de IA operarem os sistemas.
-- 🛡️ Cuido de infraestrutura e segurança: VPS Linux, Nginx, Docker, CI/CD, backups e revisão de segurança de código.
+- 🛡️ Cuido de infraestrutura e segurança da informação: certificado **EXIN ISMP (ISO/IEC 27001)** e **PDPF (privacidade e proteção de dados)**.
 - 📈 Nas horas vagas, robôs de trading com machine learning para cripto e Betfair.
 
 ---
@@ -75,8 +76,13 @@
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Experiência**
+- Gestão de TI e de infraestrutura de rede e telefonia (400+ equipamentos)
+- Interconexão de escritórios e acesso remoto com VPN
 - Deploy e administração de VPS Linux
 - Nginx, SSL e systemd
 - CI/CD com GitHub Actions
@@ -92,6 +98,17 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 🎓 Certificações e formação
+
+![EXIN ISMP](https://img.shields.io/badge/EXIN%20ISMP-ISO%2FIEC%2027001-00A3E0?style=for-the-badge)
+![EXIN PDPF](https://img.shields.io/badge/EXIN%20PDPF-Privacidade%20e%20Prote%C3%A7%C3%A3o%20de%20Dados-00A3E0?style=for-the-badge)
+
+- **EXIN Information Security Management Professional (ISMP)**, baseado na ISO/IEC 27001 (2024)
+- **EXIN Privacy and Data Protection Foundation (PDPF)** (2020)
+- **Tecnólogo em Redes de Computadores**, Senac RS / Fatec PoA (2015)
 
 ---
 
@@ -122,10 +139,10 @@
   <a href="https://github.com/marcioschmitt" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Preencha e descomente:
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcioschmitt1979/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!-- Preencha e descomente:
   <a href="mailto:SEU-EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
