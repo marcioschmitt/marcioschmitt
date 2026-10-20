@@ -18,7 +18,20 @@ jobs:
           base: header, activity, community, repositories
           repositories_affiliations: owner, collaborator, organization_member
           plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
+
+      # O plugin de linguagens do metrics sai vazio com repositórios privados,
+      # então o card de linguagens é gerado por um script próprio.
+      - name: Baixa o repositório atualizado
+        uses: actions/checkout@v4
+
+      - name: Linguagens mais usadas
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python3 .github/scripts/languages.py languages.svg
+
+      - name: Salva o card de linguagens
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add languages.svg
+          git diff --cached --quiet || (git commit -m "Update languages.svg - [Skip GitHub Action]" && git push)
